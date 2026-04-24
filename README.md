@@ -41,14 +41,6 @@
 </div>
 
 <br clear="both">
-  uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    Animesh-kambli-69: ${{ Animesh-kambli-69 }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+![Snake animation](https://github.com/Animesh-kambli-69/Animesh-kambli-69/blob/output/github-snake.svg)
 
 ###
