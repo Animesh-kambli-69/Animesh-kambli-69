@@ -41,6 +41,6 @@
 </div>
 
 <br clear="both">
-![Snake animation](https://github.com/Animesh-kambli-69/Animesh-kambli-69/blob/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Animesh-kambli-69/Animesh-kambli-69/output/github-snake.svg)
 
 ###
