@@ -5,9 +5,6 @@
 ###
 
 ###
-
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ4OWIzZTA4eDJhaDVmY2pxaW9nMG9kMDU0eDc3anlxNHZmZTNuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FjGEQSybauJqM/giphy.gif"  />
-
 <br/>
 <div align="center">
   <a href="https://github.com/Animesh-kambli-69"> 
